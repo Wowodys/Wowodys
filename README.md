@@ -2,6 +2,7 @@
 
 These are some of my personal projects! 
 I have 3.5 projects currently available. 
+and will update regularly. 
 
 - AMU firmware (and probe firmware) 
 
