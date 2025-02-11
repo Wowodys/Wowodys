@@ -1,5 +1,5 @@
-<img src="Sahij Logo.svg" alt="python"
-/>
+<img src="Sahij Logo.svg" alt="python" width="400" height="400
+"/>
 
 ## Hi there 👋
 
