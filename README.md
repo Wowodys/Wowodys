@@ -1,4 +1,4 @@
-## Hi there 👋 <img src="Sahij Logo.svg" alt="python" width="400" height="400"/>
+## Hi there 👋 <img src="sahijlogov2.svg" alt="python" width="400" height="400"/>
 
 These are some of my personal projects! 
 I have 3.5 projects currently available. 
