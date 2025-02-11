@@ -1,3 +1,5 @@
+<img src="Sahij Logo.svg" alt="python" width="40" height="40"/>
+
 ## Hi there 👋
 
 These are some of my personal projects! 
