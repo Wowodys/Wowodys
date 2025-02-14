@@ -6,6 +6,8 @@ and will update regularly.
 
 All projects on this GitHub are my own work. 
 
+- A script that takes PDF statements and imports numerical data into Excel
+
 - AMU firmware (and probe firmware) 
 
 - AMU rotation calculator tool 
